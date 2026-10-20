@@ -66,12 +66,16 @@ A mature asset lifecycle practice can help IT Operations and management improve 
 
 The objective is not simply to maintain a more complete inventory. It is to build a dependable view of **what the organization owns, who is accountable, what needs attention, and why**.
 
-I would be interested to hear how other IT Operations and ITAM teams approach lifecycle risk:
-
-**Which asset lifecycle signal most often gets missed in your environment—support status, warranty, ownership, data quality, or refresh planning?**
+I would be interested in hearing how other IT Operations and Service Delivery leaders approach operational KPI reporting.
 
 ---
 
+## About the Author
+
+**Shahid Al Parvez Malik** is a Senior IT Infrastructure & Service Delivery Manager specializing in enterprise IT operations, ITSM, infrastructure, procurement and technology management.
+
+**Professional portfolio:** [https://shahidalparvezmalik.com/](https://shahidalparvezmalik.com/)
+
 **Project:** [IT Asset Lifecycle Management on GitHub](https://github.com/shahidalparvezmalik/it-asset-lifecycle-management)
 
-#ITAssetManagement #ITAM #ITOperations #ITSM #ITInfrastructure #ITGovernance #Python #Automation
+#ITAssetManagement #ITAM #ITOperations #ITSM #ITInfrastructure #ITGovernance #Python #Automation #IrishTech #IrishITTech #Ireland
