@@ -1,3 +1,5 @@
+![IT Asset Lifecycle Management — project banner](docs/images/it-asset-lifecycle-management-banner.png)
+
 # IT Asset Lifecycle Management
 
 A portfolio-ready, read-only proof of concept demonstrating IT asset governance, lifecycle validation, warranty exposure, and rules-based technology refresh prioritization using synthetic data.
