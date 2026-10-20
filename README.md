@@ -20,7 +20,7 @@ Requires Python 3.10+; no third-party packages are needed.
 ```bash
 python -m venv .venv
 # Windows PowerShell:
-.venv\\Scripts\\Activate.ps1
+.venv\Scripts\Activate.ps1
 # macOS/Linux:
 # source .venv/bin/activate
 
@@ -94,7 +94,7 @@ Transitions are a reference workflow, not an enforced change-control engine. Ret
 │   ├── __init__.py
 │   ├── assessment.py
 │   └── cli.py
-├── reports/                 # generated locally; sample outputs included
+├── reports/                 # generated locally by the CLI
 ├── tests/test_assessment.py
 ├── .github/workflows/tests.yml
 ├── .gitignore
