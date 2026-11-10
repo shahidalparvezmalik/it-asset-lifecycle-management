@@ -103,6 +103,10 @@ Transitions are a reference workflow, not an enforced change-control engine. Ret
 └── README.md
 ```
 
+## Published LinkedIn article
+
+[IT Asset Management Is More Than an Inventory: Turning Lifecycle Data into Operational Decisions](https://www.linkedin.com/pulse/asset-management-more-than-inventory-turning-lifecycle-malik-5xnpc/)
+
 ## Roadmap
 
 - Add a dashboard with filters for lifecycle status, criticality, and refresh horizon.
